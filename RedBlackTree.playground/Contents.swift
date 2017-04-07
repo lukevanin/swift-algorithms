@@ -397,6 +397,6 @@ tree.insert(9)
 tree.insert(7)
 tree.insert(4)
 
-tree.summary
+print(tree.summary)
 
 
